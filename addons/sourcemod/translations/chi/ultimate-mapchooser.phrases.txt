@@ -1,0 +1,216 @@
+//Phrases for Ultimate Mapchooser by Steell
+
+"Phrases"
+{
+    "Slot Block Message 1"
+    {
+        "chi"    "选择你想玩的地图"
+    }
+
+    "Slot Block Message 2"
+    {
+        "chi"    "不要不经思考地选择。"
+    }
+
+    "Map Vote Menu Title"
+    {
+        "chi"    "投票选择下一地图！"
+    }
+
+    "Group Vote Menu Title"
+    {
+        "chi"    "投票选择下一个地图组！"
+    }
+
+    "Extend Map"
+    {
+        "chi"    "延长地图"
+    }
+
+    "Don't Change"
+    {
+        "chi"    "不要改变"
+    }
+
+    "End of Map Vote Over"
+    {
+        "chi"    "地图投票已结束。"
+    }
+
+    "Map Extended"
+    {
+        "chi"    "当前地图已被延长。"
+    }
+
+    "End of Map Vote Map Won"
+    {
+        "chi"    "下一个地图将会是 {1} 。"
+    }
+
+    "Vote Win Percentage"
+    {
+        "chi"    "收到 {1}%% / {2} 投票"
+    }
+
+    "Map Unchanged"
+    {
+        "chi"    "地图不会被改变。"
+    }
+
+    "Map Change in 5"
+    {
+        "chi"    "改变地图于 5 秒后。"
+    }
+
+    "Map Change at Round End"
+    {
+        "chi"    "地图将于此回合结束后改变。"
+    }
+
+    "End of Map Vote Group Won"
+    {
+        "chi"    "下一个地图将会是 '{1}，' 选择自地图组 '{2}。'"
+    }
+
+    "Runoff Msg"
+    {
+        "chi"    "投票失败！没有达成主流。"
+    }
+
+    "Another Vote"
+    {
+        "chi"    "另一次投票将在 {1} 秒到来。"
+    }
+
+    "Player Disconnect RTV"
+    {
+        "chi"    "断开玩家触发了滚动投票"
+    }
+
+    "Not Enough Players"
+    {
+        "chi"    "服务器没有足够的玩家于此地图。（{1} 需要）"
+    }
+
+    "Too Many Players"
+    {
+        "chi"    "服务器有过多的玩家于此地图。（{1} 最大）"
+    }
+
+    "No RTV Player Count"
+    {
+        "chi"    "还需要更多 {1} 玩家进入服务器才能滚动投票。"
+    }
+
+    "No RTV Nextmap"
+    {
+        "chi"    "在下一张地图之前不能滚动投票。"
+    }
+
+    "No RTV Time"
+    {
+        "chi"    "在 {1} 秒内不能滚动投票。"
+    }
+
+    "More Required"
+    {
+        "chi"    "{1} 更多需求"
+    }
+
+    "RTV Entered"
+    {
+        "chi"    "{1} 想要滚动投票。"
+    }
+
+    "RTV Info Msg"
+    {
+        "chi"    "输入'rtv'来加入，或者输入'nominate'来预订一个地图。"
+    }
+
+    "RTV Start"
+    {
+        "chi"    "滚动投票！"
+    }
+
+    "Vote In Progress"
+    {
+        "chi"    "投票正在进行。"
+    }
+
+    "RTV Already Entered"
+    {
+        "chi"    "你已进入滚动投票。"
+    }
+
+    "No Nominate Nextmap"
+    {
+        "chi"    "在下一张地图之前不可预订地图。"
+    }
+
+    "Pending Vote"
+    {
+        "chi"    "投票待定"
+    }
+
+    "Next Map"
+    {
+        "chi"    "下张地图：{1}"
+    }
+
+    "Player Nomination"
+    {
+        "chi"    "{1} 预订了 {2}。"
+    }
+
+    "Nomination Menu Title"
+    {
+        "chi"    "预订一张地图。"
+    }
+
+    "Yes/No Menu Title"
+    {
+        "chi"    "更换地图为 {1}？"
+    }
+
+    "Yes"
+    {
+        "chi"    "是"
+    }
+
+    "No"
+    {
+        "chi"    "否"
+    }
+
+    "Starting Map Vote"
+    {
+        "chi"    "开始地图投票中。投票结束后更换地图。"
+    }
+
+    "Default Warning"
+    {
+        //{TIME} is where the time in seconds is going to be placed.
+        //Please keep {TIME} in this phrase in english.
+        "chi"    "投票前 {TIME} 秒。"
+    }
+
+    "Vote Failed"
+    {
+        "chi"    "地图投票失败。胜出的选项没有获得足够百分比的投票。"
+    }
+
+    "Selective Runoff"
+    {
+        "chi"    "向未投票或投票被取消的玩家展示投票菜单。"
+    }
+
+    "No RTV Admin"
+    {
+        "chi"    "你没有参与投票所需的权限。"
+    }
+
+    "No Nominate Admin"
+    {
+        "chi"    "您没有预订地图所需的权限。"
+    }
+}
